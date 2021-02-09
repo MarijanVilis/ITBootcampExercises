@@ -1,0 +1,36 @@
+Pitanja za prvu aplikaciju:
+
+1.Da li mozete da mi opisete kako ste zamislili aplikaciju?
+2.Da li imate ciljnu grupu?
+3.Koji je krajnji rok za izradu?
+4.Na kojim sistemima zelite da radi aplikacija?
+5.Da li zelite i web aplikaciju i za koje pretrazivace ako zelite?
+6.Da li ce aplikacija biti dostupna na google store-u? Ako hoce, da li ce biti besplatna za skidanje?
+7.Da li ce postojati sistem naplate u aplikaciji (npr premium korisnici) i koji bi bili benefiti?
+8.Ako postoji naplata, da li bi bila na mesecnom nivou ili se kupi jednom?
+9.Koju oblast zelite da pokrijete aplikacijom? Grad, vise gradova ili celju zemlju?
+10.Sta od osnovnih informacija zelite da se prikaze?
+11.Da ubacimo i neke napredne informacije kao npr: mapu i putanje buseva, vreme potrebno do stanice korisnika, kasnjenja i promene trase?
+12.Da li bi koristili odredjenu taxi sluzbu za pozivanje ili vise?
+13.Da li bi naplacivali pozive i zakazivanja?
+14.Da li bi se zakazane voznje mogle otkazati u odredjeno vreme (npr do sat vremena pre nego sto krene taksi) i uvesti sistem kaznjavanja ako se zakasni sa otkazivanjem? (npr taksi je vec pred kucom i korisnik otkaze)
+15.Kako bi se obavestenja prikazivala pri potvrdjenom zakazivanju (e mail potvrda, standardno push obavestenje, obavestenje u aplikaciji)?
+16.Da li moze biti vise istih zakazivanja?
+
+--------------------------------------------------------------------
+Pitanja za drugu aplikaciju:
+
+1.Da li mozete da mi opisete kako ste zamislili aplikaciju?
+2.Koji je krajnji rok za izradu aplikacije?
+3.Na kojim sistemima zelite da radi aplikacija?
+4.Da li zelite i web aplikaciju i za koje pretrazivace ako zelite?
+5.Da li ce aplikacija biti dostupna na google store-u? Ako hoce, da li ce biti besplatna za skidanje?
+6.Da li ce postojati sistem naplate u aplikaciji (npr premium korisnici) i koji bi bili benefiti?
+7.Ako postoji naplata, da li bi bila na mesecnom nivou ili se kupi jednom?
+8.Da li ce se prikazivati knjige na vise jezika?
+9.Da li nedostupne knjige prikazujemo sa naznakom da ih nema na stanju ili ih uklonimo iz spiska?
+10.Da li pri rezervaciji knjige postoji rok preuzimanja i koliki ako ima?
+11.Da li koristimo odredjenu sluzbu za dostavu knjiga ili vise?
+12.Da li treba da postoji opcija da korisnik odma plati knjigu koju je porucio ili samo po pouzecu?
+13.Da li korisnik moze da otkaze porucene knjige?
+14.Kako bi se obavestenja prikazivala pri rezervaciji ili narucivanju knjiga? (e-mail, obavestenja u aplikaciji, obavestenja na telefonu)

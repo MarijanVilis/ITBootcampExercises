@@ -1,0 +1,51 @@
+Lidija Gomes
+---------------------------------------------------------------
+24.12.20.
+
+Zadatak 1:
+Za ovaj zadatak sam koristio unose: 
+[1,2,3] = pass
+[0,0,0] = pass
+[-1,-2,-3] = pass
+[2,2,2] = pass
+
+Zadatak 2:
+Za ovaj zadatak sam koristio unose:
+[1,2,3] i [10,20,30] = pass
+[10,20,31] i [10,20,30] = pass
+[10,20,30] i [10,20,30] = pass
+[1,2,57,100,200,300] i [10,20,30] = pass
+[1] i [] = pass
+[] i [1] = pass
+[] i [] = pass
+
+----------------------------------------------------------------
+
+25.12.20.
+
+Zadatak 1:
+Za ovaj zadatak sam koristio unose:
+Ime: Mare Care = fail 
+M = pass
+Z = pass
+m (error message) = pass
+
+Zadatak 2:
+Za ovaj zadatak sam koristio unose:
+-1 (error) = pass
+101 (error) = pass
+3 = pass
+4 = fail  (program prikazuje sve brojeve od 2 do 100)
+
+Zadatak 3:
+Za ovaj zadatak sam koristio unose:
+1 = pass
+3 = fail (program kaze da nije prost broj)
+5 = fail (program kaze da nije prost broj)
+7 = pass
+
+Zadatak 4:
+Za ovaj zadatak sam koristio unose:
+1,1,1 = pass
+-1,-1,-1 = pass
+2,3,4 = fail (program zaokruzuje broj, rezultat je 4.0 a ocekivani je 4.33333)
